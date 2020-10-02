@@ -2,7 +2,7 @@
 
 ## Tutorial Link: https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
 
-## What Is Python?
+## What is Python?
 ### Python is an interpreted, high-level and general-purpose programming language. Created by Guido van Rossum and first released in 1991.
 
 ## Why should you watch this tutorial series?
